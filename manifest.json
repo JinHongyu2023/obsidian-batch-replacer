@@ -1,0 +1,10 @@
+{
+	"id": "batch-replacer",
+	"name": "Batch Replacer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Find and replace text, including wildcards, in all files within a folder.",
+	"author": "Your Name",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
